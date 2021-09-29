@@ -65,6 +65,7 @@ public class Main {
             JOptionPane.showMessageDialog(null, "======Venta realizada====== \n=Imprimiendo factura en la consola=");
             System.out.print("-----FACTURA-----\nPoke Misaka ");
             poke.getContenido();
+            
         }
 
     }
